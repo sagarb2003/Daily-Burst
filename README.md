@@ -13,9 +13,9 @@ Daily Burst News WebApp is a modern and user-friendly web application that provi
 
 <h2>ScreenShots </h2>
 
-<img width="950" alt="image" src="https://github.com/sagarb2003/Daily-Burst/assets/99736036/34eda71e-5560-42a5-ae40-6ab5533a1f40">
-<img width="956" alt="image" src="https://github.com/sagarb2003/Daily-Burst/assets/99736036/9aee85d0-064c-4a81-bf5c-249bdb84cf46">
-<img width="959" alt="image" src="https://github.com/sagarb2003/Daily-Burst/assets/99736036/961badde-52fa-4578-abb1-3e76c6e17ea0">
+<img width="944" alt="image" src="https://github.com/sagarb2003/Daily-Burst/assets/99736036/277db05b-06d9-496f-9f20-1210ca9b7620">
+<img width="958" alt="image" src="https://github.com/sagarb2003/Daily-Burst/assets/99736036/913eea4d-9be9-4ae0-8c51-40a0304f4543">
+<img width="959" alt="image" src="https://github.com/sagarb2003/Daily-Burst/assets/99736036/76d05c40-4415-4ac1-92d5-0cbe75a7209d">
 
 <h2>Technologies Used: </h2>
 
