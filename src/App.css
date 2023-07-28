@@ -1,0 +1,9 @@
+a:link,   
+a:hover,
+a:visited,
+a:active {
+    text-decoration: none;
+    color: inherit;
+}
+
+/* for all anchor tags the styling we have done in app.css */
