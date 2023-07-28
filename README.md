@@ -1,70 +1,27 @@
-# Getting Started with Create React App
+<h1>Daily Burst News WebApp</h1>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<h2>Overview </h2>
 
-## Available Scripts
+Daily Burst News WebApp is a modern and user-friendly web application that provides real-time news updates from reliable sources. It offers a seamless browsing experience, delivering the latest news articles and trending stories to keep users informed and up-to-date with global events.
 
-In the project directory, you can run:
+<h2>Features </h2>
 
-### `npm start`
+1. Real-time News Updates: Access the latest news articles with up-to-the-minute updates.
+2. User-Friendly Interface: Enjoy a clean and intuitive design for effortless navigation.
+3. Categories and Search: Browse news by category or search for specific topics.
+4. Responsive Design: The app is fully responsive, ensuring a great user experience on all devices.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+<h2>ScreenShots </h2>
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+<img width="950" alt="image" src="https://github.com/sagarb2003/Daily-Burst/assets/99736036/34eda71e-5560-42a5-ae40-6ab5533a1f40">
+<img width="956" alt="image" src="https://github.com/sagarb2003/Daily-Burst/assets/99736036/9aee85d0-064c-4a81-bf5c-249bdb84cf46">
+<img width="959" alt="image" src="https://github.com/sagarb2003/Daily-Burst/assets/99736036/961badde-52fa-4578-abb1-3e76c6e17ea0">
 
-### `npm test`
+<h2>Technologies Used: </h2>
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+1. ReactJS: JavaScript library for building user interfaces.
+2. Material-UI: Component library for enhancing UI design.
+3. NewsAPI: API for fetching real-time news data.
+4. Axios: HTTP client for making API requests.
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
